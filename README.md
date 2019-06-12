@@ -17,8 +17,6 @@
 |     ActionMode     | [点此进入](https://github.com/abeitou/class/tree/master/ContextActionModeTest) |
 |   **Chapter 5**    |                                                              |
 | PreferenceFragment | [点此进入](https://github.com/abeitou/class/tree/master/PrefereceFragment) |
-|   **Chapter 6**    |                                                              |
-|       Intent       | [点此进入](https://github.com/abeitou/class/tree/master/Intent) |
 |    **期中实验**    |                                                              |
 |      NotePad       | [点此进入](https://github.com/abeitou/class/tree/master/NotePad) |
 
