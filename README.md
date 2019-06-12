@@ -3,7 +3,7 @@
 |      工程名称      |                             链接                             |
 | :----------------: | :----------------------------------------------------------: |
 |   **Chapter 1**    |                                                              |
-|      Activity      | [点此进入]( <https://github.com/abeitou/class/tree/master/Activity) |
+|      Activity      | [点此进入](https://github.com/abeitou/class/tree/master/Activity) |
 |   **Chapter 2**    |                                                              |
 |  LinearLayoutTest  | [点此进入](https://github.com/abeitou/class/tree/master/LinearLayoutTest) |
 | RelativeLayoutTest | [点此进入](https://github.com/abeitou/class/tree/master/RelativeLayoutTest) |
