@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LinearLayoutTest</string>
+    <string name="t1">One,One</string>
+    <string name="t2">One,Two</string>
+    <string name="t3">One,Three</string>
+    <string name="t4">One,Four</string>
+    <string name="t5">Two,One</string>
+    <string name="t6">Two,Two</string>
+    <string name="t7">Two,Three</string>
+    <string name="t8">Two,Four</string>
+    <string name="t9">Three,One</string>
+    <string name="t10">Three,Two</string>
+    <string name="t11">Three,Three</string>
+    <string name="t12">Three,Four</string>
+    <string name="t13">Four,One</string>
+    <string name="t14">Four,Two</string>
+    <string name="t15">Four,Three</string>
+    <string name="t16">Four,Four</string>
+
+
+
+
+</resources>
